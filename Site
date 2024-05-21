@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brew Buddies - Pratham Soni & Drashti Shah</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 1rem 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #444;
+        }
+        nav a {
+            color: #fff;
+            padding: 1rem;
+            text-decoration: none;
+            text-transform: uppercase;
+        }
+        nav a:hover {
+            background: #555;
+        }
+        section {
+            padding: 2rem;
+            margin: 1rem 0;
+        }
+        footer {
+            text-align: center;
+            padding: 1rem;
+            background: #333;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Brew Buddies</h1>
+        <p>Pratham Soni & Drashti Shah</p>
+    </header>
+    <nav>
+        <a href="#home">Home</a>
+        <a href="#about">About Us</a>
+        <a href="#experiments">Our Experiments</a>
+        <a href="#blog">Blog</a>
+        <a href="#contact">Contact</a>
+    </nav>
+    <section id="home">
+        <h2>Welcome to Brew Buddies</h2>
+        <p>Join Pratham Soni and Drashti Shah as we experiment with what works in the market and on the roads of a Tier 1 city.</p>
+    </section>
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We are Pratham Soni and Drashti Shah, two enthusiasts passionate about exploring new ideas and ventures. Together, we delve into the dynamics of market trends and urban culture, seeking out what resonates with people in a bustling Tier 1 city.</p>
+    </section>
+    <section id="experiments">
+        <h2>Our Experiments</h2>
+        <p>At Brew Buddies, we engage in various experiments to discover unique and innovative solutions. Whether it's testing new products, exploring different marketing strategies, or diving into urban adventures, we're always on the lookout for what works best.</p>
+    </section>
+    <section id="blog">
+        <h2>Blog</h2>
+        <p>Read our latest blog posts to stay updated on our findings, stories, and experiences as we navigate the ever-changing landscape of a Tier 1 city.</p>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>If you have any questions, suggestions, or just want to say hello, feel free to reach out to us!</p>
+        <p>Email: pratham.drashti@brewbuddies.com</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 Brew Buddies. All rights reserved.</p>
+    </footer>
+</body>
+</html>
